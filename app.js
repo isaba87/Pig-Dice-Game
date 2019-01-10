@@ -19,14 +19,6 @@ GAME RULES:
 //variables
 var scores, roundScore, activePlayer, gamePlaying;
 
-//below needed for codepen (dice sources)
-// dice-1 = https://i.imgur.com/H2xmles.png
-// dice-2 = https://i.imgur.com/LM5MaZu.png
-// dice-3 = https://i.imgur.com/VNCL0gX.png
-// dice-4 = https://i.imgur.com/pw3OHYW.png
-// dice-5 = https://i.imgur.com/xzi9Jax.png
-// dice-6 = https://i.imgur.com/iojogiG.png
-
 //intinalize the game
 init();
 
